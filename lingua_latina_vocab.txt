@@ -1871,8 +1871,6 @@ vulnus -eris n wound
 vultus -ūs m countenance, face
 Z
 zephyrus -ī m west wind
-GRAMMATICAL TERMS
-LATIN ABBREVIATIONS ENGLISH
 ablātīvus (cāsus) abl ablative
 accūsātīvus (cāsus) acc accusative
 āctīvum (genus) āct active
@@ -1931,17 +1929,3 @@ supīnum supine
 tempus (verbī) tense
 verbum vb verb
 vocātīvus (cāsus) voc vocative
-LINGUA LATINA is a complete, universal series that allows students to read and understand Latin
-immediately. All words and forms are made clear in the context of reading, illustrations, or
-marginal notes.
-The series itself consists of a first year book, Part I: Familia Romana covering the essentials of
-Latin grammar and 1500 vocabulary words through a story of a Latin family in the 2nd Century
-A.D. The second book, Part II, Roma Aeterna, covers Roman History and the city of Rome,
-including a prose version of Vergil's Aeneid I-IV, adapted texts from Livy, and unadapted texts
-from Livy, Aulus Gellius, Nepos, Sallust, Cicero and Horace. Further information can be found
-on this widely adopted series at www.pullins.com/txt/LinguaLatina.htm.
-Focus Publishing/R. Pullins Company
-Newburyport MA
-ISBN 1-58510-049-8
-00000
-9 781585 100491
