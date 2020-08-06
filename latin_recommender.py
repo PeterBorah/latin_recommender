@@ -6,6 +6,10 @@ from cltk.lemmatize.latin.backoff import BackoffLatinLemmatizer
 
 j = JVReplacer()
 
+def get_methods(some_object):
+    print([method_name for method_name in dir(some_object)
+            if callable(getattr(some_object, method_name))])
+
 with open("lingua_latina_vocab.txt") as f:
     words = [line.split()[0].
             replace('-', '').
@@ -19,13 +23,28 @@ with open("lingua_latina_vocab.txt") as f:
     # print(len(words))
 
 corpus_importer = CorpusImporter('latin')
-# print(corpus_importer.list_corpora)
+print(corpus_importer.list_corpora)
 
 corpus_importer.import_corpus('latin_models_cltk')
 
+# lemmatizer = BackoffLatinLemmatizer()
+# lemmas = lemmatizer.lemmatize(words)
 
-lemmatizer = BackoffLatinLemmatizer()
-lemmas = lemmatizer.lemmatize(words)
+# decliner = CollatinusDecliner()
+# print(decliner.decline(lemmas[40][1], flatten=True))
 
-decliner = CollatinusDecliner()
-print(decliner.decline(lemmas[40][1], flatten=True))
+corpus_importer.import_corpus("latin_text_perseus")
+reader = get_corpus_reader(language='latin', corpus_name="latin_text_perseus")
+docs = list(reader.docs())
+print("perseus:", len(docs))
+
+corpus_importer.import_corpus("latin_text_latin_library")
+reader = get_corpus_reader(language='latin', corpus_name="latin_text_latin_library")
+docs = list(reader.docs())
+print("latin library:", len(docs))
+
+corpus_importer.import_corpus("latin_text_tesserae")
+reader = get_corpus_reader(language='latin', corpus_name="latin_text_tesserae")
+# print(get_methods(reader))
+print("tesserae:", len(reader.fileids()))
+# print(reader.raw('texts/valerius_flaccus.argonautica.part.4.tess'))
