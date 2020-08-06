@@ -1,4 +1,6 @@
-ā/ab/abs prp +abl from, of, since, by
+ā
+ab
+abs prp +abl from, of, since, by
 ab-dūcere take away, carry off
 ab-errāre wander away, stray
 ab-esse ā-fuisse be absent/away/distant
@@ -36,7 +38,8 @@ ad-ōrāre worship, adore
 adulēscēns -entis m young man
 ad-vehere carry, convey (to)
 ad-venīre arrive
-adversus/-um prp +acc toward, against
+adversus
+adversum prp +acc toward, against
 adversus -a -um contrary, unfavorable
 aedificāre build
 aedificium -ī n building
@@ -141,7 +144,8 @@ a-spergere -sisse -sum sprinkle, scatter (on)
 a-spicere look at, look
 at but
 āter -tra -trum black, dark
-atque/ac and, as, than
+atque
+ac and, as, than
 ātrium -ī n main room, hall
 attentus -a -um attentive
 audācia -ae f boldness, audacity
@@ -221,7 +225,6 @@ cāsus -ūs m fall, case
 catēna -ae f chain
 cauda -ae f tail
 causa -ae f cause, reason
-gen (/meā) +causā for the sake of
 cautus -a -um cautious
 cavēre cāvisse cautum beware (of)
 cēdere cessisse go, withdraw
@@ -380,7 +383,8 @@ decimus -a -um tenth
 dēclīnāre decline, inflect
 de-esse dē-fuisse (+dat) be missing, fail
 dē-fendere -disse -ēnsum defend
-de-inde/dein afterward, then
+de-inde
+dein afterward, then
 dēlectāre delight, please
 dēlēre -ēvisse -ētum delete, efface
 dēliciae -ārum f pl delight, pet
@@ -504,7 +508,8 @@ etiam-nunc still
 et-sī even if, although
 ē-volāre fly out
 ē-volvere -visse -lūtum unroll
-ex/ē prp +abl out of, from, of, since
+ex
+ē prp +abl out of, from, of, since
 ex-audīre hear
 ex-citāre wake up, arouse
 ex-clāmāre cry out, exclaim
@@ -1040,16 +1045,19 @@ neglegere -ēxisse -ēctum neglect
 negōtium -ī n business, activity
 nēmō -inem -inī no one, nobody
 nēquam adi indēcl, sup nēquissimus worthless, bad
-ne-que/nec and/but not, nor, not
+ne-que
+nec and/but not, nor, not
 n….n. neither…nor
 ne-scīre not know
 neu v. nē-ve/neu
 neuter -tra -trum neither
-nē-ve/neu and (that) not, nor
+nē-ve
+neu and (that) not, nor
 nex necis f killing, murder
 nīdus -ī m nest
 niger -gra -grum black
-nihil/nīl nothing
+nihil
+nīl nothing
 nimis too, too much
 nimium too much
 nimius -a -um too big
@@ -1395,7 +1403,8 @@ quidem indeed, certainly
 nē quidem not even
 quidnī why not
 quid-quam anything
-neque/nec quidquam and nothing
+neque
+nec quidquam and nothing
 quid-quid whatever, anything that
 quiēscere -ēvisse rest
 quiētus -a -um quiet
@@ -1412,8 +1421,11 @@ quis quae quid who, what
 quis quid (sī/num/nē…) anyone, anything
 quis-nam quid-nam who/what ever?
 quis-quam anyone
-neque/nec quisquam and no one
-quis-que quae- quod- each
+neque
+nec quisquam and no one
+quis-que 
+quae-que 
+quod-que each
 quis-quis whoever, anyone who
 quō adv where (to)
 quod (= quia) because, that
@@ -1592,7 +1604,8 @@ sinus -ūs m fold (of toga)
 sī-quidem seeing that, since
 sitis -is f thirst
 situs -a -um situated
-sī-ve/seu or, or if
+sī-ve
+seu or, or if
 s. … s. whether…or
 sōl -is m sun
 solēre -itum esse be accustomed
@@ -1747,7 +1760,8 @@ ubi where
 ubi prīmum +perf as soon as
 ubī-que everywhere
 ūllus -a -um any
-nec/neque ūllus and no
+nec
+neque ūllus and no
 ulterior -ius comp farther, more distant
 ultimus -a -um sup most distant, last
 ultrā prp +acc beyond
@@ -1756,7 +1770,8 @@ umbra -a f shade, shadow
 umerus -ī m shoulder
 ūmidus -a -um wet, moist
 umquam ever
-nec/neque umquam and never
+nec
+neque umquam and never
 ūnā adv together
 unde from where
 ūn-dē-centum ninety-nine
@@ -1811,7 +1826,8 @@ verberāre beat, flog
 verbum -ī n word, verb
 verērī fear
 vērō really, however, but
-neque/nec vērō but not
+neque
+nec vērō but not
 versārī move about, be present
 versiculus -ī m short verse
 versus -ūs m line, verse
